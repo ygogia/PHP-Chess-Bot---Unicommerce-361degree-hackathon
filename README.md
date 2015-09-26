@@ -1,4 +1,4 @@
-# PHP-Chess-Bot---Unicommerce-361degree-hackathon
+# PHP Chess Bot- Team PublicStaticVoidMain #4 
 This hackathon project was built by our team of three at the Unicommerce
 Hackathon and we came #4 out of 49 teams in the hackathon.
 
